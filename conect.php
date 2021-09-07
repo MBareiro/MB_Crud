@@ -1,4 +1,4 @@
 <?php 
 	
-	$db = mysqli_connect('localhost', 'root', '', 'crud');
+	$db = mysqli_connect('localhost', 'root', 'root', 'crud');
     ?>

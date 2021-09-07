@@ -37,7 +37,7 @@
 <!-- -->
     <?php $results = mysqli_query($db, "SELECT * FROM info"); ?>
 	<br>
-    <table align="center" >
+    <table>
         <thead>
             <tr>
                 <th>Nombre</th>
